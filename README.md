@@ -1,16 +1,40 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0f766e&height=190&section=header&text=Matheus%20Chimello&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Java%20%7C%20Spring%20Boot%20%7C%20React&descSize=18&descAlignY=60" />
+</div>
 
-<!--
-**Matheus-Chimello/Matheus-Chimello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <strong>Desenvolvedor focado em aplicações web completas.</strong>
+</div>
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desenvolvo projetos práticos com Java, Spring Boot e React, explorando APIs RESTful, bancos de dados, Docker e interfaces web.
+
+## Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,postgres,docker,git,github" />
+</p>
+
+## Projeto em destaque
+
+### Corretora de Ações
+
+Aplicação para organizar ações, corretoras e carteiras de investimento. O projeto inclui cotações dos mercados brasileiro e norte-americano, histórico de transações, autenticação, indicadores de desempenho e execução com Docker.
+
+<p>
+  <a href="https://github.com/Matheus-Chimello/Corretora-Acoes-Apiv2">
+    <img src="https://img.shields.io/badge/Ver%20projeto-0f766e?style=for-the-badge&logo=github&logoColor=white" alt="Ver projeto Corretora de Ações" />
+  </a>
+</p>
+
+## Estatísticas
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Matheus-Chimello&show_icons=true&hide_border=true&title_color=0f766e&icon_color=0f766e&text_color=334155&bg_color=ffffff" alt="Estatísticas do GitHub de Matheus Chimello" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Chimello&layout=compact&hide_border=true&title_color=0f766e&text_color=334155&bg_color=ffffff" alt="Linguagens mais usadas por Matheus Chimello" />
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:0f172a&height=100&section=footer" />
+</div>
