@@ -28,13 +28,3 @@ Aplicação para organizar ações, corretoras e carteiras de investimento. O pr
   </a>
 </p>
 
-## Estatísticas
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Matheus-Chimello&show_icons=true&hide_border=true&title_color=0f766e&icon_color=0f766e&text_color=334155&bg_color=ffffff" alt="Estatísticas do GitHub de Matheus Chimello" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Chimello&layout=compact&hide_border=true&title_color=0f766e&text_color=334155&bg_color=ffffff" alt="Linguagens mais usadas por Matheus Chimello" />
-</p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:0f172a&height=100&section=footer" />
-</div>
